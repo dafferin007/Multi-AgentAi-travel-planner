@@ -1,0 +1,6 @@
+gradio
+langgraph
+langchain-core
+langchain-groq
+python-dotenv
+requests
